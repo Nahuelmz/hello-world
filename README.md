@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+I'm Nahuel <br>
+A graphic designer from Mar del Plata, Argentina. Hi!
